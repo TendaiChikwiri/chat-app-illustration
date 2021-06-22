@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 - <a href="https://github.com/TendaiChikwiri/chat-app-illustration" target="_blank">Solution: GitHub</a>
-- <a href="https://github.com/TendaiChikwiri/chat-app-illustration" target="_blank">Live Site</a>
+- <a href="https://tendaichikwiri.github.io/chat-app-illustration" target="_blank">Live Site</a>
 
 ## My process
 
